@@ -6,7 +6,7 @@
       "attached_motors": [
         "m1"
       ],
-      "port": "/dev/ttyAMA0",
+      "port": "/dev/ttyUSB0",
       "syncloop": "LightDxlController"
     }
   },

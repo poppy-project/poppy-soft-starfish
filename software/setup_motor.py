@@ -18,7 +18,7 @@ app = Application()
 
 @app.cmd
 def motorconfig(motor_name):
-    with Dxl320IO('/dev/ttyAMA0') as io:
+    with Dxl320IO('/dev/ttyUSB0') as io:
         for id in range(1, 254):
             if io.ping(id):
                 break
