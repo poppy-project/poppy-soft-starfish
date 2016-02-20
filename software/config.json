@@ -6,7 +6,7 @@
       "attached_motors": [
         "arm1",
         "arm2",
-        "arm3",
+        "arm3"
       ],
       "port": "/dev/ttyUSB0",
       "syncloop": "LightDxlController"
