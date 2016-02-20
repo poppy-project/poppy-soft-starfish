@@ -20,6 +20,56 @@
         90.0
       ],
       "orientation": "direct"
+    },
+    "m2": {
+      "offset": 0.0,
+      "type": "XL-320",
+      "id": 2,
+      "angle_limit": [
+        -90.0,
+        90.0
+      ],
+      "orientation": "direct"
+    },
+    "m3": {
+      "offset": 0.0,
+      "type": "XL-320",
+      "id": 3,
+      "angle_limit": [
+        -90.0,
+        90.0
+      ],
+      "orientation": "direct"
+    },
+    "m4": {
+      "offset": 0.0,
+      "type": "XL-320",
+      "id": 4,
+      "angle_limit": [
+        -90.0,
+        90.0
+      ],
+      "orientation": "direct"
+    },
+    "m5": {
+      "offset": 0.0,
+      "type": "XL-320",
+      "id": 5,
+      "angle_limit": [
+        -90.0,
+        90.0
+      ],
+      "orientation": "direct"
+    },
+    "m6": {
+      "offset": 0.0,
+      "type": "XL-320",
+      "id": 6,
+      "angle_limit": [
+        -90.0,
+        90.0
+      ],
+      "orientation": "direct"
     }
   }
 }
