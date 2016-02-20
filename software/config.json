@@ -4,16 +4,27 @@
       "sync_read": true,
       "protocol": 2,
       "attached_motors": [
-        "m1"
+        "arm1",
+        "arm2",
+        "arm3",
       ],
       "port": "/dev/ttyUSB0",
       "syncloop": "LightDxlController"
     }
   },
   "motorgroups": {
-    "arm1": ["m1", "m2"],
-    "arm2": ["m3", "m4"],
-    "arm3": ["m5", "m6"]
+    "arm1": [
+      "m1",
+      "m2"
+    ],
+    "arm2": [
+      "m3",
+      "m4"
+    ],
+    "arm3": [
+      "m5",
+      "m6"
+    ]
   },
   "motors": {
     "m1": {
@@ -21,8 +32,8 @@
       "type": "XL-320",
       "id": 1,
       "angle_limit": [
-        -90.0,
-        90.0
+        -120.0,
+        120.0
       ],
       "orientation": "direct"
     },
@@ -31,8 +42,8 @@
       "type": "XL-320",
       "id": 2,
       "angle_limit": [
-        -90.0,
-        90.0
+        -120.0,
+        120.0
       ],
       "orientation": "direct"
     },
@@ -41,8 +52,8 @@
       "type": "XL-320",
       "id": 3,
       "angle_limit": [
-        -90.0,
-        90.0
+        -120.0,
+        120.0
       ],
       "orientation": "direct"
     },
@@ -51,8 +62,8 @@
       "type": "XL-320",
       "id": 4,
       "angle_limit": [
-        -90.0,
-        90.0
+        -120.0,
+        120.0
       ],
       "orientation": "direct"
     },
@@ -61,8 +72,8 @@
       "type": "XL-320",
       "id": 5,
       "angle_limit": [
-        -90.0,
-        90.0
+        -120.0,
+        120.0
       ],
       "orientation": "direct"
     },
@@ -71,8 +82,8 @@
       "type": "XL-320",
       "id": 6,
       "angle_limit": [
-        -90.0,
-        90.0
+        -120.0,
+        120.0
       ],
       "orientation": "direct"
     }
