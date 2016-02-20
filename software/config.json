@@ -10,6 +10,11 @@
       "syncloop": "LightDxlController"
     }
   },
+  "motorgroups": {
+    "arm1": ["m1", "m2"],
+    "arm2": ["m3", "m4"],
+    "arm3": ["m5", "m6"]
+  },
   "motors": {
     "m1": {
       "offset": 0.0,
