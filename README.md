@@ -1,30 +1,29 @@
 # Poppy Soft Starfish
 
-poppy-soft-starfish is the first robot showcasing the use of [poppy-soft-connector](https://github.com/jgrizou/poppy-soft-connector) to create flexible robotic parts.
+poppy-soft-starfish is the first robot showcasing the use of [poppy-soft-connector](https://github.com/poppy-project/poppy-soft-connector) to create flexible robotic parts.
 
-TODO: Link to the blog post
+Discussion about this project are located on [this post](TODO) of [our forum](https://forum.poppy-project.org/).
 
 TODO: gif of the robot moving
 
 <!-- ![gif](doc/gif/flip.gif) -->
 
-TODO: link to release stl files
 
-You can [find and modify the design on onshape](https://cad.onshape.com/documents/56af95b6e4b06a92e0eda720/w/a53eaed345df8e54532db1e2/e/a165c83ad81843f33ed38c05) with all the molds for [poppy-soft-starfish](https://github.com/jgrizou/poppy-soft-starfish)
-(Note: If the link does not work, run a search for ''Poppy Soft Robot XL320'')
+## Quick information
 
-### Building instructions
+Watch this [video]()
 
-[Video tutorial]()
+Look at the [doc folder](doc) for building instruction and help
 
-In more details:
--
+Look at the [hardware folder](hardware) for the mechanical parts
+
+Look at the [software folder](hardware) for code examples
 
 ### Contributing
 
 Create your own soft robot and share it on [our forum](https://forum.poppy-project.org/)!
 
-You can also propose new optimized design for the [poppy-soft-connector](https://github.com/jgrizou/poppy-soft-connector).
+You can also propose new optimized design for the [poppy-soft-connector](https://github.com/poppy-project/poppy-soft-connector).
 
 To contribute to this repository, you can [fork it](https://help.github.com/articles/fork-a-repo/) and issue a [pull request](https://help.github.com/articles/using-pull-requests/). [[Another useful link]](https://gun.io/blog/how-to-github-fork-branch-and-pull-request/)
 
