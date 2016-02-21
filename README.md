@@ -9,7 +9,7 @@ Discussion about this project are located on [this post](TODO) of [our forum](ht
 
 ## Quick information
 
-Watch this [video]()
+Watch this [video](https://youtu.be/B3CZs55AJQo)
 
 Look at the [doc folder](doc) for building instructions and help
 
