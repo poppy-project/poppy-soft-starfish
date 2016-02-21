@@ -8,7 +8,7 @@ from argvee import Application
 from pypot.dynamixel import Dxl320IO
 
 
-config_file = 'config.json'
+config_file = 'configuration/poppy_soft_starfish.json'
 with open(config_file) as f:
     robot_config = json.load(f)
 

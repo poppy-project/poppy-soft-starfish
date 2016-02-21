@@ -3,8 +3,11 @@
 poppy-soft-starfish is the first robot showcasing the use of [poppy-soft-connector](https://github.com/jgrizou/poppy-soft-connector) to create flexible robotic parts.
 
 TODO: Link to the blog post
+
 TODO: gif of the robot moving
-![gif](doc/gif/flip.gif)
+
+<!-- ![gif](doc/gif/flip.gif) -->
+
 TODO: link to release stl files
 
 You can [find and modify the design on onshape](https://cad.onshape.com/documents/56af95b6e4b06a92e0eda720/w/a53eaed345df8e54532db1e2/e/a165c83ad81843f33ed38c05) with all the molds for [poppy-soft-starfish](https://github.com/jgrizou/poppy-soft-starfish)

@@ -1,4 +1,7 @@
 
+
+
+
 I have been working on a way to easily (and cheaply) design and include soft elements in poppy creatures. I came up with poppy-soft-connector:
 
 
