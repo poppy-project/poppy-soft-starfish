@@ -1,13 +1,36 @@
+# Poppy Soft Starfish
 
-I have been working on a way to easily (and cheaply) design and include soft elements in poppy creatures. I came up with poppy-soft-connector:
+poppy-soft-starfish is the first robot showcasing the use of [poppy-soft-connector](https://github.com/jgrizou/poppy-soft-connector) to create flexible robotic parts.
+
+TODO: Link to the blog post
+TODO: gif of the robot moving
+![gif](doc/gif/flip.gif)
+TODO: link to release stl files
+
+You can [find and modify the design on onshape](https://cad.onshape.com/documents/56af95b6e4b06a92e0eda720/w/a53eaed345df8e54532db1e2/e/a165c83ad81843f33ed38c05) with all the molds for [poppy-soft-starfish](https://github.com/jgrizou/poppy-soft-starfish)
+(Note: If the link does not work, run a search for ''Poppy Soft Robot XL320'')
+
+### Building instructions
+
+[Video tutorial]()
+
+In more details:
+-
+
+### Contributing
+
+Create your own soft robot and share it on [our forum](https://forum.poppy-project.org/)!
+
+You can also propose new optimized design for the [poppy-soft-connector](https://github.com/jgrizou/poppy-soft-connector).
+
+To contribute to this repository, you can [fork it](https://help.github.com/articles/fork-a-repo/) and issue a [pull request](https://help.github.com/articles/using-pull-requests/). [[Another useful link]](https://gun.io/blog/how-to-github-fork-branch-and-pull-request/)
 
 
-The idea is simple: by embedding hard connectors into silicon based parts, we create soft part with a standard Ollo mechanical interface. These parts can they be used as plug and play building blocks.
+### License
 
-To create the soft part you have to prepare a mold of the desired shape. The mold's wall should be 2.2mm thick (for Ollo rivets) and include Ollo holes at the position you would like to add the connectors. The connectors are then positioned into the mold and maintained in place using Ollo rivet. You can then pour the polymer of your choice into the mold and allow for enough time for the polymer to cure - thus embedding the connector into the part. The soft part can then be unmolded and attached with XL-320 motors or any Ollo parts to create 'soft robots'.
+All the technological development work made in the Poppy project is freely available under open source licenses. Only the name usage *"Poppy"* is restricted and protected as an international trademark, please contact us if you want to use it or have more information.
 
-As an example, I built poppy-soft-starfish a simple 6 degrees of freedom robot with 3 arms. The connection between motors are all made out of silicon, giving quite interesting properties to the robot. I released the all hardware and software, as well as some videos showcasing the building process and my attempts to make it move.
-
-While the starfish robot is not the best application of the soft links, it demonstrates how to use soft connectors. The possibilities are immense as many different kinds of polymer can be used with many different properties. It also allows to embed electronic, cables, and more into the body of our robots. The soft connector I designed is neither the smartest nor the only way to go but it is a good starting point. More specialized connectors will have to be designed for different applications. I propose that we share them all on the following repository: poppy-soft-connector.
-
-I hope this will tickle the imagination and creativity of some of you. I am convinced it will open a new world of possibilities for artistic minded people!
+|   License     |     Hardware    |   Software      |
+| ------------- | :-------------: | :-------------: |
+| Title  | [Creatives Commons BY-SA](http://creativecommons.org/licenses/by-sa/4.0/)  |[GPL v3](http://www.gnu.org/licenses/gpl.html)  |
+| Logo  | [![Creative Commons BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png) ](http://creativecommons.org/licenses/by-sa/4.0/)  |[![GPL V3](https://www.gnu.org/graphics/gplv3-88x31.png)](http://www.gnu.org/licenses/gpl.html)  |
