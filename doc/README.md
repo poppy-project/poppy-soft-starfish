@@ -10,10 +10,10 @@ Video showcasing the building process are available:
 
 - [Molding](https://youtu.be/pZrcofLqdRw)
 
-- [Unmolding]()
+- [Unmolding](https://youtu.be/WqsFyHN0t-A)
 
 - [Assembling the robot](https://youtu.be/N8gOX-NB1fE)
 
-Some demo code is available under the [software folder](https://github.com/poppy-project/poppy-soft-starfish/software), it implements the forward motion.
+Some demo code is available under the [software folder](https://github.com/poppy-project/poppy-soft-starfish/tree/master/software/poppy_soft_starfish), it implements the forward motion.
 
 [[video_1]](https://youtu.be/_0Psq-BkSfY) [[video_2]](https://youtu.be/mUjL1PCE9o8) [[video_3]](https://youtu.be/N8iv0Vt9XzM)

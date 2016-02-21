@@ -2,7 +2,7 @@
 
 For building a Poppy Soft Starfish, you will need:
 
-* the 3D printed parts: [[STL]](https://github.com/poppy-project/poppy-soft-starfish/hardware) [[BOM]](https://github.com/poppy-project/poppy-soft-starfish/hardware/BOM.md)
+* the 3D printed parts: [[STL]](https://github.com/poppy-project/poppy-soft-starfish/tree/master/hardware) [[BOM]](https://github.com/poppy-project/poppy-soft-starfish/blob/master/hardware/BOM.md)
 
 * some silicone, we used the [Ecoflex 00-30](http://www.smooth-on.com/Silicone-Rubber-an/c2_1115_1130/index.html)
 

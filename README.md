@@ -15,7 +15,7 @@ Look at the [doc folder](doc) for building instructions and help
 
 Look at the [hardware folder](hardware) for the mechanical parts
 
-Look at the [software folder](hardware) for code examples
+Look at the [software folder](software) for code examples
 
 
 ### Contributing
