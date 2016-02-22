@@ -4,7 +4,7 @@ poppy-soft-starfish is the first robot showcasing the use of [poppy-soft-connect
 
 ![forward_side_view](doc/gif/forward_side_view.gif)
 
-Discussion about this project are located on [this post](TODO) of [our forum](https://forum.poppy-project.org/).
+Discussion about this project are located on [this post](https://forum.poppy-project.org/t/poppy-soft-connector/2152) of [our forum](https://forum.poppy-project.org/).
 
 
 ## Quick information
