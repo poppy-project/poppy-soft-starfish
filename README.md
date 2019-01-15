@@ -2,7 +2,7 @@
 
 poppy-soft-starfish is the first robot showcasing the use of [poppy-soft-connector](https://github.com/poppy-project/poppy-soft-connector) to create flexible robotic parts.
 
-![forward_side_view](doc/gif/forward_side_view.gif) ![Soft Connector](https://github.com/poppy-project/poppy-soft-connector/blob/master/beta_connector/beta_connector.gif)
+![forward_side_view](doc/gif/forward_side_view.gif)
 
 Discussions about this project are located on [this post](https://forum.poppy-project.org/t/poppy-soft-connector/2152) of [our forum](https://forum.poppy-project.org/).
 
