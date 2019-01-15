@@ -1,18 +1,18 @@
 # Poppy Soft Starfish
 
-poppy-soft-starfish is the first robot showcasing the use of [poppy-soft-connector](https://github.com/poppy-project/poppy-soft-connector) to create flexible robotic parts.
+This soft robot intergrates flexible silicon parts that can be easily design and built at a very low cost. It make use of the [poppy-soft-connector](https://github.com/poppy-project/poppy-soft-connector).
 
 ![forward_side_view](doc/gif/forward_side_view.gif)
 
-Discussions about this project are located on [this post](https://forum.poppy-project.org/t/poppy-soft-connector/2152) of [our forum](https://forum.poppy-project.org/).
+Discussions about this project are located at [this post](https://forum.poppy-project.org/t/poppy-soft-connector/2152). The project has been highlighted on [Hackaday](https://hackaday.com/2016/08/17/struggling-robot-made-with-diy-soft-limbs/)
 
 ## Principles 
 
-The idea is simple: by embedding hard connectors into silicon based parts, we create soft part with a standard Ollo mechanical interface. These parts can they be used as plug and play building blocks. See [tutorial video](https://youtu.be/B3CZs55AJQo).
+By embedding hard connectors into silicon based parts, we create soft part with a standard mechanical interface. These parts can be used as plug and play building blocks in our robots. See our [tutorial video](https://youtu.be/B3CZs55AJQo).
 
 To create the soft part you have to prepare a mold of the desired shape. The mold's wall should be 2.2mm thick (for Ollo rivets) and include Ollo holes at the position you would like to add the connectors. The connectors are then positioned into the mold and maintained in place using Ollo rivet. You can then pour the polymer of your choice into the mold and allow for enough time for the polymer to cure - thus embedding the connector into the part. The soft part can then be unmolded and attached with XL-320 motors or any Ollo parts to create 'soft robots'. The starfish robot demonstrates how to use soft connectors.
 
-The possibilities are immense as many different kinds of polymer can be used with many different properties. It also allows to embed electronics, sensors, cables, and more into the body of our robots. I hope this will tickle the imagination and creativity of some of you. I am convinced it will open new possibilities for artistic minded people!
+The possibilities are immense as many different kinds of polymer can be used with many different properties. It also allows to embed electronics, sensors, cables, and more into the body of our robots. We hope this will tickle the imagination and open new possibilities for artistic minded people!
 
 ## More information
 
