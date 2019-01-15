@@ -1,6 +1,6 @@
 # Poppy Soft Starfish
 
-This soft robot intergrates flexible silicon parts that can be easily design and built at a very low cost. It make use of the [poppy-soft-connector](https://github.com/poppy-project/poppy-soft-connector).
+This soft robot intergrates flexible silicon parts that can be easily design and built at a very low cost (>1$). It make use of the [poppy-soft-connector](https://github.com/poppy-project/poppy-soft-connector).
 
 ![forward_side_view](doc/gif/forward_side_view.gif)
 
